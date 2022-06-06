@@ -8,10 +8,7 @@ package lobosyconejos;
 import java.util.List;
 import java.util.ArrayList;
 
-/**
- *
- * @author Moncho
- */
+
 public class Parametros {
     public static List<Conejos> conejos= new ArrayList<Conejos>();
     public static List<Lobos> lobos= new ArrayList<Lobos>();

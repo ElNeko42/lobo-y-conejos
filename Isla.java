@@ -11,10 +11,7 @@ import java.util.Iterator;
 import java.util.TimerTask;
 import java.util.Timer;
 
-/**
- *
- * @author Moncho
- */
+
 public class Isla extends javax.swing.JFrame {
 
     int offset_x=40;

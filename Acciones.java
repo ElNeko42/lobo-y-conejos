@@ -9,10 +9,7 @@ import java.awt.Point;
 import java.util.Iterator;
 import java.util.Random;
 
-/**
- *
- * @author Moncho
- */
+
 public class Acciones {
 
     public static Point mueve(Point punto){

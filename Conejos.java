@@ -11,10 +11,7 @@ import java.util.concurrent.Semaphore;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Moncho
- */
+
 public class Conejos extends Thread{
     
     int vida;

@@ -5,10 +5,6 @@
  */
 package lobosyconejos;
 
-/**
- *
- * @author Moncho
- */
 public class LobosyConejos {
 
     /**
